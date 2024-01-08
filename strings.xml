@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="messenger">Messenger</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="email">Email</string>
+    <string name="email_">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="todo_">TODO</string>
+    <string name="password_">Password</string>
+    <string name="sign_up">SIGN UP !</string>
+</resources>
