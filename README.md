@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For queries, feel free to reach out at:
 - Email: namansinghjan2003@gmail.com
-- GitHub: [your-username](https://github.com/Naman-2003)
+- GitHub: [Naman-2003](https://github.com/Naman-2003)
 
